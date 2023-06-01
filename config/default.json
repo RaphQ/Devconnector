@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://raph123:raph123@devconnector.assrwad.mongodb.net/"
+    "mongoURI": "mongodb+srv://raph123:raph123@devconnector.assrwad.mongodb.net/",
+    "jwtsecret": "mySecretToken"
 }
